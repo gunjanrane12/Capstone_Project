@@ -1,1 +1,19 @@
 
+1		Project Title and Team Member Details					Yes
+2		Business Problem Statement							Yes
+3		Project Objectives and Expected Business Outcomes		Yes
+4		Technology Stack									Yes
+5		Overall Architecture Diagram							Yes
+6		Source Dataset Description							Yes
+7		Data Ingestion Process								Yes
+8		Data Profiling and Quality Rules						Yes
+9		Bronze, Silver, and Gold Layer Implementation			Yes
+10		Data Cleaning, Quarantine, and Warning Handling		Yes
+11		Fact and Dimension Data Modeling					Yes
+12		Workflow and Pipeline Orchestration					Yes
+13		Data Validation and Reconciliation Results				Yes
+14		Dashboard Implementation and Business KPIs			Yes
+15		Error Handling and Monitoring						Yes
+16		Challenges Faced and Solutions Implemented			Yes
+17		Final Project Results and Business Insights				Yes
+18		Individual Team Member Contributions		
